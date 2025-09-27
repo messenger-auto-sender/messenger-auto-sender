@@ -1,4 +1,4 @@
-# Messenger Auto Sender
+# Facebook Messenger Auto Sender
 
 A simple **desktop automation app** that helps you send messages on **Facebook Messenger** chats one by one.  
 This tool automatically selects conversations, pastes your message, and sends it — saving time when messaging multiple clients.  
